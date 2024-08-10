@@ -6,6 +6,4 @@ Lightning adress : `leohaf@orangepill.ovh`
 
 PGP Key : [CACC7CBB26B3D2EE8FC2F2BC0E37EBAB8574F005](https://cdn.orangepill.ovh/leohaf.gpg)
 
-Signal : `leo_haf.88`
-
 Matrix : `leohaf:matrix.orangepill.ovh`
