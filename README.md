@@ -4,6 +4,6 @@ NIP-05 : `leo@haf.ovh` or my [npub](https://snort.social/p/npub1ywjjp4dup38veklg
 
 Lightning adress : `leo@haf.ovh`
 
-PGP Key : [CACC7CBB26B3D2EE8FC2F2BC0E37EBAB8574F005](https://cdn.orangepill.ovh/leohaf.gpg)
+PGP Key : [orangepill.ovh](https://cdn.orangepill.ovh/leohaf.gpg) or [haf.ovh](https://cdn.orangepill.ovh/haf.gpg)
 
 Matrix : `@leo:haf.ovh`
